@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Android Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+  <string-array name="name">
+    <item>Alpha</item>;
+    <item>Beta</item>;
+    <item>Cupcake</item>;
+    <item>Donut</item>;
+    <item>Eclair</item>;
+    <item>Froyo</item>;
+    <item>Gingerbread</item>;
+    <item>Honeycomb</item>;
+    <item>Ice Cream SandWich</item>;
+    <item>Jelly Bean</item>;
+    <item>KitKat</item>;
+    <item>Lollipop</item>;
+    <item>Marshmallow</item>;
+    <item>Nogut</item>;
+    <item>Android O</item>
+    </string-array>
+
+    <string-array name="code">
+      <item>1.0	</item>;
+      <item>1.1</item>;
+      <item>1.5</item>;
+      <item>1.6</item>;
+      <item>2.0-2.1</item>;
+      <item>2.2</item>;
+      <item>2.3</item>;
+      <item>3.0-3.2</item>;
+      <item>4.0</item>;
+      <item>4.1-4.3</item>;
+      <item>4.4</item>;
+      <item>5.0-5.1</item>;
+      <item>6.0</item>;
+      <item>7</item>;
+      <item>8</item>
+    </string-array>
+
+    <string-array name="ids">
+      <item>1</item>;
+      <item>2</item>;
+      <item>3</item>;
+      <item>4</item>;
+      <item>5</item>;
+      <item>6</item>;
+      <item>7</item>;
+      <item>8</item>;
+      <item>9</item>;
+      <item>10</item>;
+      <item>11</item>;
+      <item>12</item>;
+      <item>13</item>;
+      <item>14</item>;
+      <item>15</item>
+    </string-array>
+
+
+</resources>
